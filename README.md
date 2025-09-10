@@ -1,16 +1,40 @@
-## Hi there 👋
+## Olá Eu sou Antonio Carlos Marko
 
-<!--
-**Antonio-Marko-br/Antonio-Marko-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center";flex-direction: colum>   
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Marko-br&layout=compact&hide_border=true&theme=midnight-purple" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: flex; flex-direction: column;">
+  <div>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+  <div>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
+  <div>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  </div>
+  <div>
+    <div>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+  </div>
+  </div>
+</div>
+<div display: flex>
+  
+  
+  
+  
+ X
+</div>
